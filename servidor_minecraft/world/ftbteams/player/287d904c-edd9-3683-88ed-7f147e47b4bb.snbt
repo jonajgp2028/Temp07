@@ -1,0 +1,17 @@
+{
+	id: "287d904c-edd9-3683-88ed-7f147e47b4bb"
+	type: "player"
+	player_name: "eepy"
+	ranks: {
+		287d904c-edd9-3683-88ed-7f147e47b4bb: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "eepy"
+		"ftbteams:description": ""
+		"ftbteams:color": "#83FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

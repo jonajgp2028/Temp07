@@ -1,0 +1,17 @@
+{
+	id: "32c353da-1459-353b-a764-9961e900aa95"
+	type: "player"
+	player_name: "jonajgp"
+	ranks: {
+		32c353da-1459-353b-a764-9961e900aa95: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "jonajgp"
+		"ftbteams:description": ""
+		"ftbteams:color": "#5CFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
