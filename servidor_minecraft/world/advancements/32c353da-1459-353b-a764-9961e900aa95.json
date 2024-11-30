@@ -342,13 +342,20 @@
   },
   "spelunkery:spelunkery/every_fungus": {
     "criteria": {
-      "brown_mushroom": "2024-11-29 17:42:26 +0000"
+      "brown_mushroom": "2024-11-29 17:42:26 +0000",
+      "warped_fungus": "2024-11-30 04:48:07 +0000"
     },
     "done": false
   },
   "ars_nouveau:warp_scroll": {
     "criteria": {
       "has_warp_scroll": "2024-11-29 17:54:25 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:experienced_engineer": {
+    "criteria": {
+      "have_experience_nugget": "2024-11-30 04:53:17 +0000"
     },
     "done": true
   },
@@ -364,15 +371,51 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-11-30 04:51:13 +0000"
+    },
+    "done": true
+  },
   "biomemakeover:biomemakeover/witch_hat": {
     "criteria": {
       "wear_hat": "2024-11-30 04:32:17 +0000"
     },
     "done": true
   },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2024-11-30 04:53:18 +0000"
+    },
+    "done": true
+  },
   "idas:apothecary_abode": {
     "criteria": {
       "in_apothecary_abode": "2024-11-30 04:41:41 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:recipes/experience_rotor": {
+    "criteria": {
+      "has_item": "2024-11-30 04:53:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-11-30 04:48:07 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/gunpowder": {
+    "criteria": {
+      "has_item": "2024-11-30 04:46:20 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/diamond": {
+    "criteria": {
+      "has_item": "2024-11-30 04:52:34 +0000"
     },
     "done": true
   },
@@ -387,6 +430,18 @@
       "cave_tablet": "2024-11-30 04:36:51 +0000"
     },
     "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-11-30 04:52:34 +0000"
+    },
+    "done": true
+  },
+  "betternether:nether_wood": {
+    "criteria": {
+      "got_warped": "2024-11-30 04:47:21 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
