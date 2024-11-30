@@ -11738,3 +11738,10 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [30Nov2024 04:53:17.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eepy has made the advancement [Cloud Storage]
 [30Nov2024 04:53:18.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonajgp has made the advancement [Close Quarters]
 [30Nov2024 04:57:51.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jonajgp: Teleported eepy to jonajgp]
+[30Nov2024 04:58:29.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jonajgp: Teleported eepy to jonajgp]
+[30Nov2024 05:05:01.050] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Copper Nugget'/24923, l='ServerLevel[world]', x=-1224.35, y=74.80, z=3576.35, removed=DISCARDED]
+[30Nov2024 05:06:21.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <eepy> -851 66 3463
+[30Nov2024 05:06:43.143] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[30Nov2024 05:06:43.145] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[30Nov2024 05:06:43.145] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[30Nov2024 05:07:33.891] [pool-13-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / idas:treetop_tavern], ResourceKey[minecraft:worldgen/structure / idas:beekeepers_house], ResourceKey[minecraft:worldgen/structure / idas:fishermans_lodge], ResourceKey[minecraft:worldgen/structure / integrated_villages:marketstead_village], ResourceKey[minecraft:worldgen/structure / integrated_villages:tavern_village], ResourceKey[minecraft:worldgen/structure / idas:castle], ResourceKey[minecraft:worldgen/structure / integrated_villages:quark/minka_village], ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market_orange]] from pos BlockPos{x=-1173, y=84, z=4075}
