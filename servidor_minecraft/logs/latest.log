@@ -11690,3 +11690,43 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [30Nov2024 04:30:53.137] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
 [30Nov2024 04:30:53.138] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/Temp07/servidor_minecraft/bclib-sync (allowDelete=true)
 [30Nov2024 04:31:35.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jonajgp: Teleported jonajgp to eepy]
+[30Nov2024 04:32:17.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonajgp has made the advancement [Which Witch?]
+[30Nov2024 04:34:14.108] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/10310, l='ServerLevel[world]', x=1655.50, y=53.00, z=3331.50]
+[30Nov2024 04:34:56.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eepy fell from a high place
+[30Nov2024 04:34:58.737] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[30Nov2024 04:35:03.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [eepy: Teleported eepy to jonajgp]
+[30Nov2024 04:35:13.140] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1616, y=65, z=3234} BlockPos{x=1615, y=64, z=3234}
+[30Nov2024 04:35:25.806] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
+[30Nov2024 04:35:41.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [eepy: Teleported eepy to jonajgp]
+[30Nov2024 04:35:44.895] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4090ms or 81 ticks behind
+[30Nov2024 04:35:59.881] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/11282, l='ServerLevel[world]', x=1655.50, y=53.00, z=3332.50]
+[30Nov2024 04:36:03.395] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3540ms or 70 ticks behind
+[30Nov2024 04:36:21.563] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3208ms or 64 ticks behind
+[30Nov2024 04:36:32.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jonajgp: Teleported jonajgp to eepy]
+[30Nov2024 04:36:51.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonajgp has made the advancement [It Belongs in a Museum]
+[30Nov2024 04:38:37.411] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[30Nov2024 04:38:37.416] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[30Nov2024 04:38:37.416] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[30Nov2024 04:38:37.417] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[30Nov2024 04:38:48.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [eepy: Teleported jonajgp to eepy]
+[30Nov2024 04:40:05.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eepy has made the advancement [Light as a Frog]
+[30Nov2024 04:40:10.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eepy has completed the challenge [Pillager Fortress]
+[30Nov2024 04:40:11.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonajgp has made the advancement [Light as a Frog]
+[30Nov2024 04:40:22.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonajgp has completed the challenge [Pillager Fortress]
+[30Nov2024 04:41:41.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonajgp has made the advancement [The Apothecary's Abode]
+[30Nov2024 04:41:44.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eepy was blown up by Creeper
+[30Nov2024 04:41:47.077] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[30Nov2024 04:41:58.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [eepy: Teleported eepy to jonajgp]
+[30Nov2024 04:41:59.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eepy has made the advancement [The Apothecary's Abode]
+[30Nov2024 04:42:45.966] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Nov2024 04:42:45.971] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Nov2024 04:42:47.139] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Nov2024 04:42:47.140] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Nov2024 04:42:47.141] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Nov2024 04:42:47.141] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Nov2024 04:42:47.142] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Nov2024 04:42:47.143] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Nov2024 04:42:47.143] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Nov2024 04:43:09.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jonajgp: Teleported eepy to jonajgp]
+[30Nov2024 04:47:51.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eepy walked into fire whilst fighting Pillager
+[30Nov2024 04:47:53.004] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.

@@ -43,7 +43,8 @@
       "boreal_forest": "2024-11-29 17:20:44 +0000",
       "towering_cliffs": "2024-11-29 16:39:54 +0000",
       "temperate_grove": "2024-11-29 16:43:35 +0000",
-      "cold_river": "2024-11-29 16:51:08 +0000"
+      "cold_river": "2024-11-29 16:51:08 +0000",
+      "old_growth_bayou": "2024-11-30 04:38:27 +0000"
     },
     "done": false
   },
@@ -79,7 +80,8 @@
       "boreal_forest": "2024-11-29 17:20:44 +0000",
       "towering_cliffs": "2024-11-29 16:39:54 +0000",
       "temperate_grove": "2024-11-29 16:43:35 +0000",
-      "cold_river": "2024-11-29 16:51:08 +0000"
+      "cold_river": "2024-11-29 16:51:08 +0000",
+      "old_growth_bayou": "2024-11-30 04:38:27 +0000"
     },
     "done": false
   },
@@ -148,7 +150,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:mangrove_swamp": "2024-11-30 04:43:09 +0000",
       "minecraft:river": "2024-11-29 17:28:22 +0000",
+      "minecraft:lukewarm_ocean": "2024-11-30 04:32:36 +0000",
       "minecraft:swamp": "2024-11-29 17:21:32 +0000",
       "minecraft:cold_ocean": "2024-11-29 17:09:40 +0000",
       "minecraft:ocean": "2024-11-29 16:47:53 +0000"
@@ -255,7 +259,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-11-30 04:43:46 +0000",
       "minecraft:spider": "2024-11-29 17:22:24 +0000",
+      "minecraft:creeper": "2024-11-30 04:43:26 +0000",
       "minecraft:slime": "2024-11-29 17:21:37 +0000",
       "minecraft:witch": "2024-11-29 17:44:37 +0000",
       "minecraft:zombie": "2024-11-29 17:05:51 +0000"
@@ -382,9 +388,27 @@
     },
     "done": true
   },
+  "idas:pillager_fortress": {
+    "criteria": {
+      "in_pillager_fortress": "2024-11-30 04:40:10 +0000"
+    },
+    "done": true
+  },
+  "idas:apothecary_abode": {
+    "criteria": {
+      "in_apothecary_abode": "2024-11-30 04:41:59 +0000"
+    },
+    "done": true
+  },
   "biomemakeover:biomemakeover/lightning_bug_bottle": {
     "criteria": {
       "lightning_bug_bottle": "2024-11-30 04:29:34 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:light_as_a_frog": {
+    "criteria": {
+      "lily_pad": "2024-11-30 04:40:05 +0000"
     },
     "done": true
   },
