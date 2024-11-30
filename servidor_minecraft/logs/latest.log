@@ -11745,3 +11745,27 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [30Nov2024 05:06:43.145] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
 [30Nov2024 05:06:43.145] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
 [30Nov2024 05:07:33.891] [pool-13-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / idas:treetop_tavern], ResourceKey[minecraft:worldgen/structure / idas:beekeepers_house], ResourceKey[minecraft:worldgen/structure / idas:fishermans_lodge], ResourceKey[minecraft:worldgen/structure / integrated_villages:marketstead_village], ResourceKey[minecraft:worldgen/structure / integrated_villages:tavern_village], ResourceKey[minecraft:worldgen/structure / idas:castle], ResourceKey[minecraft:worldgen/structure / integrated_villages:quark/minka_village], ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market_orange]] from pos BlockPos{x=-1173, y=84, z=4075}
+[30Nov2024 05:08:46.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jonajgp: Teleported eepy to jonajgp]
+[30Nov2024 05:09:34.134] [Worker-Main-2/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=-1707, y=83, z=4333}
+[30Nov2024 05:09:34.135] [Worker-Main-2/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=-1706, y=83, z=4333}
+[30Nov2024 05:09:36.846] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[30Nov2024 05:12:11.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jonajgp: Teleported eepy to jonajgp]
+[30Nov2024 05:12:48.327] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Nov2024 05:13:14.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jonajgp: Teleported eepy to jonajgp]
+[30Nov2024 05:13:44.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jonajgp: Teleported eepy to jonajgp]
+[30Nov2024 05:13:56.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eepy was slain by Cyclops
+[30Nov2024 05:13:56.951] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[30Nov2024 05:13:56.954] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 4 is dual wielding: false
+[30Nov2024 05:13:56.956] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 obituary
+[30Nov2024 05:13:56.957] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[30Nov2024 05:13:56.958] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[30Nov2024 05:13:57.989] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[30Nov2024 05:14:05.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [eepy: Teleported eepy to jonajgp]
+[30Nov2024 05:14:05.724] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[30Nov2024 05:14:09.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jonajgp: Teleported eepy to jonajgp]
+[30Nov2024 05:14:11.037] [Worker-Main-2/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=-2283, y=87, z=3773}
+[30Nov2024 05:14:11.038] [Worker-Main-2/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=-2282, y=87, z=3773}
+[30Nov2024 05:14:40.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eepy was slain by Cyclops
+[30Nov2024 05:14:41.793] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[30Nov2024 05:14:45.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jonajgp: Teleported eepy to jonajgp]
+[30Nov2024 05:15:29.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jonajgp: Teleported eepy to jonajgp]
