@@ -62,10 +62,13 @@
       "bayou": "2024-11-29 17:22:01 +0000",
       "autumnal_maple_forest": "2024-11-29 16:50:12 +0000",
       "marsh": "2024-11-29 17:43:02 +0000",
+      "frozen_tundra": "2024-11-30 05:15:26 +0000",
       "grassy_beach": "2024-11-29 17:25:23 +0000",
       "maple_forest": "2024-11-29 16:48:13 +0000",
+      "frozen_pine_taiga": "2024-11-30 05:15:29 +0000",
       "boreal_forest": "2024-11-29 17:20:30 +0000",
       "towering_cliffs": "2024-11-29 16:31:55 +0000",
+      "cold_boreal_taiga": "2024-11-30 05:17:42 +0000",
       "temperate_grove": "2024-11-29 16:49:04 +0000",
       "cold_river": "2024-11-29 16:51:04 +0000",
       "old_growth_bayou": "2024-11-30 04:38:49 +0000",
@@ -83,10 +86,13 @@
       "bayou": "2024-11-29 17:22:01 +0000",
       "autumnal_maple_forest": "2024-11-29 16:50:12 +0000",
       "marsh": "2024-11-29 17:43:02 +0000",
+      "frozen_tundra": "2024-11-30 05:15:26 +0000",
       "grassy_beach": "2024-11-29 17:25:23 +0000",
       "maple_forest": "2024-11-29 16:48:13 +0000",
+      "frozen_pine_taiga": "2024-11-30 05:15:29 +0000",
       "boreal_forest": "2024-11-29 17:20:30 +0000",
       "towering_cliffs": "2024-11-29 16:31:55 +0000",
+      "cold_boreal_taiga": "2024-11-30 05:17:42 +0000",
       "temperate_grove": "2024-11-29 16:49:04 +0000",
       "cold_river": "2024-11-29 16:51:04 +0000",
       "old_growth_bayou": "2024-11-30 04:38:49 +0000",
@@ -158,12 +164,14 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2024-11-30 05:06:23 +0000",
+      "minecraft:frozen_river": "2024-11-30 05:16:42 +0000",
       "minecraft:mangrove_swamp": "2024-11-29 17:51:10 +0000",
       "minecraft:lukewarm_ocean": "2024-11-29 17:54:00 +0000",
       "minecraft:river": "2024-11-29 17:28:17 +0000",
       "minecraft:snowy_plains": "2024-11-30 05:10:51 +0000",
       "minecraft:swamp": "2024-11-29 17:21:27 +0000",
       "minecraft:forest": "2024-11-30 05:10:29 +0000",
+      "minecraft:frozen_ocean": "2024-11-30 05:18:12 +0000",
       "minecraft:ocean": "2024-11-29 16:47:53 +0000",
       "minecraft:snowy_beach": "2024-11-30 05:11:55 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-11-29 17:56:19 +0000"
@@ -311,6 +319,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-11-30 04:40:38 +0000",
+      "minecraft:skeleton": "2024-11-30 05:19:06 +0000",
       "minecraft:slime": "2024-11-30 04:57:46 +0000",
       "minecraft:witch": "2024-11-29 17:26:21 +0000",
       "minecraft:zombie": "2024-11-29 17:41:22 +0000"

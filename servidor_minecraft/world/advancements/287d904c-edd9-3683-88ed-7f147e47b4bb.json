@@ -37,11 +37,14 @@
       "bayou": "2024-11-29 17:21:57 +0000",
       "autumnal_maple_forest": "2024-11-29 16:50:23 +0000",
       "marsh": "2024-11-29 17:41:52 +0000",
+      "frozen_tundra": "2024-11-30 05:17:03 +0000",
       "grassy_beach": "2024-11-29 17:25:26 +0000",
       "rocky_meadow": "2024-11-29 17:24:28 +0000",
       "maple_forest": "2024-11-29 16:43:33 +0000",
+      "frozen_pine_taiga": "2024-11-30 05:15:29 +0000",
       "boreal_forest": "2024-11-29 17:20:44 +0000",
       "towering_cliffs": "2024-11-29 16:39:54 +0000",
+      "cold_boreal_taiga": "2024-11-30 05:17:45 +0000",
       "temperate_grove": "2024-11-29 16:43:35 +0000",
       "cold_river": "2024-11-29 16:51:08 +0000",
       "old_growth_bayou": "2024-11-30 04:38:27 +0000"
@@ -74,11 +77,14 @@
       "bayou": "2024-11-29 17:21:57 +0000",
       "autumnal_maple_forest": "2024-11-29 16:50:23 +0000",
       "marsh": "2024-11-29 17:41:52 +0000",
+      "frozen_tundra": "2024-11-30 05:17:03 +0000",
       "grassy_beach": "2024-11-29 17:25:26 +0000",
       "rocky_meadow": "2024-11-29 17:24:28 +0000",
       "maple_forest": "2024-11-29 16:43:33 +0000",
+      "frozen_pine_taiga": "2024-11-30 05:15:29 +0000",
       "boreal_forest": "2024-11-29 17:20:44 +0000",
       "towering_cliffs": "2024-11-29 16:39:54 +0000",
+      "cold_boreal_taiga": "2024-11-30 05:17:45 +0000",
       "temperate_grove": "2024-11-29 16:43:35 +0000",
       "cold_river": "2024-11-29 16:51:08 +0000",
       "old_growth_bayou": "2024-11-30 04:38:27 +0000"
@@ -125,6 +131,7 @@
     "criteria": {
       "cooked_beef": "2024-11-30 04:52:51 +0000",
       "porkchop": "2024-11-29 17:09:27 +0000",
+      "mutton": "2024-11-30 05:22:22 +0000",
       "glow_berries": "2024-11-30 04:47:19 +0000",
       "cooked_mutton": "2024-11-29 16:51:54 +0000",
       "apple": "2024-11-29 17:19:11 +0000",
@@ -154,12 +161,14 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2024-11-30 05:12:10 +0000",
+      "minecraft:frozen_river": "2024-11-30 05:16:43 +0000",
       "minecraft:mangrove_swamp": "2024-11-30 04:43:09 +0000",
       "minecraft:river": "2024-11-29 17:28:22 +0000",
       "minecraft:lukewarm_ocean": "2024-11-30 04:32:36 +0000",
       "minecraft:snowy_plains": "2024-11-30 05:12:34 +0000",
       "minecraft:swamp": "2024-11-29 17:21:32 +0000",
       "minecraft:cold_ocean": "2024-11-29 17:09:40 +0000",
+      "minecraft:frozen_ocean": "2024-11-30 05:22:03 +0000",
       "minecraft:ocean": "2024-11-29 16:47:53 +0000",
       "minecraft:snowy_beach": "2024-11-30 05:12:11 +0000"
     },
@@ -410,6 +419,12 @@
     },
     "done": true
   },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2024-11-30 05:23:02 +0000"
+    },
+    "done": true
+  },
   "quark:get_all_corundum": {
     "criteria": {
       "red": "2024-11-30 04:53:30 +0000"
@@ -434,15 +449,33 @@
     },
     "done": true
   },
+  "spelunkery:recipes/diamond": {
+    "criteria": {
+      "has_item": "2024-11-30 05:20:39 +0000"
+    },
+    "done": true
+  },
   "biomemakeover:biomemakeover/lightning_bug_bottle": {
     "criteria": {
       "lightning_bug_bottle": "2024-11-30 04:29:34 +0000"
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-11-30 05:20:11 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:light_as_a_frog": {
     "criteria": {
       "lily_pad": "2024-11-30 04:40:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-11-30 05:20:39 +0000"
     },
     "done": true
   },

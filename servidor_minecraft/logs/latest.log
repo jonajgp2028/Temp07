@@ -11769,3 +11769,16 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [30Nov2024 05:14:41.793] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [30Nov2024 05:14:45.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jonajgp: Teleported eepy to jonajgp]
 [30Nov2024 05:15:29.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jonajgp: Teleported eepy to jonajgp]
+[30Nov2024 05:20:11.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eepy has made the advancement [Mine? Mine? Mine?]
+[30Nov2024 05:20:22.542] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[30Nov2024 05:20:39.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eepy has made the advancement [Diamonds!]
+[30Nov2024 05:22:24.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jonajgp: Teleported eepy to jonajgp]
+[30Nov2024 05:23:02.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eepy has made the advancement [Penteconter]
+[30Nov2024 05:24:47.715] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/43139, l='ServerLevel[world]', x=-2167.50, y=58.00, z=2827.50]
+[30Nov2024 05:24:51.212] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/43284, l='ServerLevel[world]', x=-2121.50, y=58.00, z=2866.50]
+[30Nov2024 05:24:57.458] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/43437, l='ServerLevel[world]', x=-2166.50, y=58.00, z=2828.50]
+[30Nov2024 05:25:06.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jonajgp: Teleported eepy to jonajgp]
+[30Nov2024 05:25:11.110] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/43624, l='ServerLevel[world]', x=-2081.50, y=53.00, z=2855.50]
+[30Nov2024 05:26:43.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eepy has made the advancement [Crops of the Wild]
+[30Nov2024 05:26:53.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eepy has made the advancement [Tooth Fairy]
+[30Nov2024 05:27:01.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonajgp has made the advancement [Tooth Fairy]
