@@ -12022,3 +12022,8 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [04Dec2024 02:15:02.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonajgp has made the advancement [Bedazzled]
 [04Dec2024 02:16:02.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jonajgp: Set own game mode to Creative Mode]
 [04Dec2024 02:16:21.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jonajgp: Set own game mode to Survival Mode]
+[04Dec2024 02:17:23.924] [Server thread/INFO] [EMI/]: [EMI] jonajgp cheated in 1 bunny_ears
+[04Dec2024 02:19:00.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jonajgp: Set own game mode to Creative Mode]
+[04Dec2024 02:19:25.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jonajgp: Set own game mode to Survival Mode]
+[04Dec2024 02:19:44.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jonajgp: Set own game mode to Creative Mode]
+[04Dec2024 02:20:00.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jonajgp: Set own game mode to Survival Mode]

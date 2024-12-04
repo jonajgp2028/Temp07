@@ -490,6 +490,12 @@
     },
     "done": true
   },
+  "spelunkery:spelunkery/diamond_grindstone": {
+    "criteria": {
+      "item": "2024-12-04 02:15:02 +0000"
+    },
+    "done": true
+  },
   "spelunkery:spelunkery/magnetic_compass": {
     "criteria": {
       "item": "2024-12-04 01:19:50 +0000"
@@ -547,6 +553,12 @@
   "create:copper": {
     "criteria": {
       "0": "2024-12-04 00:56:51 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/raw_gold_nugget": {
+    "criteria": {
+      "has_item": "2024-12-04 02:16:11 +0000"
     },
     "done": true
   },
