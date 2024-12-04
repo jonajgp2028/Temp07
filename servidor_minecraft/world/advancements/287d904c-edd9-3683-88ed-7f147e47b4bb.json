@@ -392,6 +392,7 @@
   },
   "spelunkery:spelunkery/every_fungus": {
     "criteria": {
+      "mushgloom": "2024-12-04 02:07:02 +0000",
       "conk_fungus": "2024-12-04 01:40:21 +0000",
       "brown_mushroom": "2024-11-30 04:52:29 +0000",
       "crimson_fungus": "2024-11-30 04:52:35 +0000",
@@ -596,6 +597,18 @@
   "spelunkery:recipes/raw_copper": {
     "criteria": {
       "has_item": "2024-12-04 01:54:55 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/mushgloom": {
+    "criteria": {
+      "has_item": "2024-12-04 02:07:02 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/rough_diamond_shard": {
+    "criteria": {
+      "has_item": "2024-12-04 02:02:32 +0000"
     },
     "done": true
   },
