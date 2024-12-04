@@ -563,6 +563,18 @@
     },
     "done": true
   },
+  "spelunkery:recipes/raw_gold_nugget": {
+    "criteria": {
+      "has_item": "2024-12-04 02:01:28 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/raw_iron_nugget": {
+    "criteria": {
+      "has_item": "2024-12-04 01:56:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-12-04 01:07:40 +0000"
@@ -578,6 +590,12 @@
   "spelunkery:spelunkery/conk_fungus": {
     "criteria": {
       "item": "2024-12-04 01:40:21 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/raw_copper": {
+    "criteria": {
+      "has_item": "2024-12-04 01:54:55 +0000"
     },
     "done": true
   },

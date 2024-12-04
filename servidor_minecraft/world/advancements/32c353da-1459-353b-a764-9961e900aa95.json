@@ -332,6 +332,8 @@
       "minecraft:creeper": "2024-12-04 01:01:05 +0000",
       "minecraft:slime": "2024-11-30 04:57:46 +0000",
       "minecraft:witch": "2024-11-29 17:26:21 +0000",
+      "quark:wraith": "2024-12-04 02:00:38 +0000",
+      "minecraft:silverfish": "2024-12-04 01:58:12 +0000",
       "minecraft:zombie": "2024-11-29 17:41:22 +0000",
       "minecraft:zombie_villager": "2024-12-04 01:41:52 +0000"
     },
@@ -482,9 +484,21 @@
     },
     "done": true
   },
+  "spelunkery:recipes/rough_diamond": {
+    "criteria": {
+      "has_item": "2024-12-04 02:01:54 +0000"
+    },
+    "done": true
+  },
   "spelunkery:spelunkery/magnetic_compass": {
     "criteria": {
       "item": "2024-12-04 01:19:50 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:spelunkery/rough_gem": {
+    "criteria": {
+      "item": "2024-12-04 02:01:54 +0000"
     },
     "done": true
   },
@@ -542,6 +556,12 @@
     },
     "done": true
   },
+  "spelunkery:recipes/raw_iron_nugget": {
+    "criteria": {
+      "has_item": "2024-12-04 01:55:21 +0000"
+    },
+    "done": true
+  },
   "integrated_villages:mediterranean_village": {
     "criteria": {
       "in_mediterranean_village": "2024-12-04 01:36:12 +0000"
@@ -551,6 +571,18 @@
   "biomemakeover:biomemakeover/cladding_template": {
     "criteria": {
       "get_disc": "2024-12-04 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/rough_diamond_shard": {
+    "criteria": {
+      "has_item": "2024-12-04 02:02:03 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:spelunkery/rough_diamond": {
+    "criteria": {
+      "item": "2024-12-04 02:01:54 +0000"
     },
     "done": true
   },
