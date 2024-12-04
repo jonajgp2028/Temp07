@@ -72,7 +72,9 @@
       "temperate_grove": "2024-11-29 16:49:04 +0000",
       "cold_river": "2024-11-29 16:51:04 +0000",
       "old_growth_bayou": "2024-11-30 04:38:49 +0000",
+      "spires": "2024-11-30 05:29:13 +0000",
       "grassland": "2024-11-29 17:48:54 +0000",
+      "gravel_beach": "2024-11-30 05:29:32 +0000",
       "redwoods": "2024-11-29 17:48:34 +0000"
     },
     "done": false
@@ -96,7 +98,9 @@
       "temperate_grove": "2024-11-29 16:49:04 +0000",
       "cold_river": "2024-11-29 16:51:04 +0000",
       "old_growth_bayou": "2024-11-30 04:38:49 +0000",
+      "spires": "2024-11-30 05:29:13 +0000",
       "grassland": "2024-11-29 17:48:54 +0000",
+      "gravel_beach": "2024-11-30 05:29:32 +0000",
       "redwoods": "2024-11-29 17:48:34 +0000"
     },
     "done": false
@@ -170,6 +174,7 @@
       "minecraft:river": "2024-11-29 17:28:17 +0000",
       "minecraft:snowy_plains": "2024-11-30 05:10:51 +0000",
       "minecraft:swamp": "2024-11-29 17:21:27 +0000",
+      "minecraft:cold_ocean": "2024-11-30 05:31:16 +0000",
       "minecraft:forest": "2024-11-30 05:10:29 +0000",
       "minecraft:frozen_ocean": "2024-11-30 05:18:12 +0000",
       "minecraft:ocean": "2024-11-29 16:47:53 +0000",
@@ -369,75 +374,9 @@
     },
     "done": true
   },
-  "create_enchantment_industry:experienced_engineer": {
-    "criteria": {
-      "have_experience_nugget": "2024-11-30 04:53:17 +0000"
-    },
-    "done": true
-  },
-  "spelunkery:recipes/amethyst": {
-    "criteria": {
-      "has_item": "2024-11-30 04:44:39 +0000"
-    },
-    "done": true
-  },
-  "idas:pillager_fortress": {
-    "criteria": {
-      "in_pillager_fortress": "2024-11-30 04:40:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2024-11-30 04:51:13 +0000"
-    },
-    "done": true
-  },
   "biomemakeover:biomemakeover/witch_hat": {
     "criteria": {
       "wear_hat": "2024-11-30 04:32:17 +0000"
-    },
-    "done": true
-  },
-  "lootr:25loot": {
-    "criteria": {
-      "loot_stat": "2024-11-30 04:53:18 +0000"
-    },
-    "done": true
-  },
-  "idas:apothecary_abode": {
-    "criteria": {
-      "in_apothecary_abode": "2024-11-30 04:41:41 +0000"
-    },
-    "done": true
-  },
-  "create_enchantment_industry:recipes/experience_rotor": {
-    "criteria": {
-      "has_item": "2024-11-30 04:53:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/smelt_iron": {
-    "criteria": {
-      "iron": "2024-11-30 04:48:07 +0000"
-    },
-    "done": true
-  },
-  "spelunkery:recipes/gunpowder": {
-    "criteria": {
-      "has_item": "2024-11-30 04:46:20 +0000"
-    },
-    "done": true
-  },
-  "spelunkery:recipes/diamond": {
-    "criteria": {
-      "has_item": "2024-11-30 04:52:34 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:light_as_a_frog": {
-    "criteria": {
-      "lily_pad": "2024-11-30 04:40:11 +0000"
     },
     "done": true
   },
@@ -447,9 +386,33 @@
     },
     "done": true
   },
-  "minecraft:story/mine_diamond": {
+  "regions_unexplored:light_as_a_frog": {
     "criteria": {
-      "diamond": "2024-11-30 04:52:34 +0000"
+      "lily_pad": "2024-11-30 04:40:11 +0000"
+    },
+    "done": true
+  },
+  "idas:pillager_fortress": {
+    "criteria": {
+      "in_pillager_fortress": "2024-11-30 04:40:22 +0000"
+    },
+    "done": true
+  },
+  "idas:apothecary_abode": {
+    "criteria": {
+      "in_apothecary_abode": "2024-11-30 04:41:41 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/amethyst": {
+    "criteria": {
+      "has_item": "2024-11-30 04:44:39 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/gunpowder": {
+    "criteria": {
+      "has_item": "2024-11-30 04:46:20 +0000"
     },
     "done": true
   },
@@ -458,6 +421,54 @@
       "got_warped": "2024-11-30 04:47:21 +0000"
     },
     "done": false
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-11-30 04:48:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-11-30 04:51:13 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/diamond": {
+    "criteria": {
+      "has_item": "2024-11-30 04:52:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-11-30 04:52:34 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:experienced_engineer": {
+    "criteria": {
+      "have_experience_nugget": "2024-11-30 04:53:17 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:recipes/experience_rotor": {
+    "criteria": {
+      "has_item": "2024-11-30 04:53:17 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2024-11-30 04:53:18 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:adventure/tooth_fairy": {
+    "criteria": {
+      "thrasher_tooth": "2024-11-30 05:27:01 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
