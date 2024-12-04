@@ -135,6 +135,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-04 01:41:30 +0000",
       "cooked_beef": "2024-11-30 04:52:51 +0000",
       "porkchop": "2024-11-29 17:09:27 +0000",
       "mutton": "2024-11-30 05:22:22 +0000",
@@ -177,7 +178,8 @@
       "minecraft:cold_ocean": "2024-11-29 17:09:40 +0000",
       "minecraft:frozen_ocean": "2024-11-30 05:22:03 +0000",
       "minecraft:ocean": "2024-11-29 16:47:53 +0000",
-      "minecraft:snowy_beach": "2024-11-30 05:12:11 +0000"
+      "minecraft:snowy_beach": "2024-11-30 05:12:11 +0000",
+      "minecraft:savanna": "2024-12-04 01:35:30 +0000"
     },
     "done": false
   },
@@ -329,9 +331,10 @@
   },
   "create:wrench_goggles": {
     "criteria": {
-      "0": "2024-11-29 17:13:13 +0000"
+      "0": "2024-11-29 17:13:13 +0000",
+      "1": "2024-12-04 01:39:20 +0000"
     },
-    "done": false
+    "done": true
   },
   "supplementaries:adventure/way_sign": {
     "criteria": {
@@ -389,6 +392,7 @@
   },
   "spelunkery:spelunkery/every_fungus": {
     "criteria": {
+      "conk_fungus": "2024-12-04 01:40:21 +0000",
       "brown_mushroom": "2024-11-30 04:52:29 +0000",
       "crimson_fungus": "2024-11-30 04:52:35 +0000",
       "warped_fungus": "2024-11-30 04:56:14 +0000",
@@ -505,6 +509,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/jar_pixie": {
+    "criteria": {
+      "jar": "2024-12-04 01:41:50 +0000"
+    },
+    "done": true
+  },
   "simplyswords:simplyswords": {
     "criteria": {
       "requirement": "2024-12-04 01:20:20 +0000"
@@ -538,6 +548,18 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-12-04 01:07:40 +0000"
+    },
+    "done": true
+  },
+  "integrated_villages:mediterranean_village": {
+    "criteria": {
+      "in_mediterranean_village": "2024-12-04 01:36:12 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:spelunkery/conk_fungus": {
+    "criteria": {
+      "item": "2024-12-04 01:40:21 +0000"
     },
     "done": true
   },

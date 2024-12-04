@@ -179,7 +179,8 @@
       "minecraft:frozen_ocean": "2024-11-30 05:18:12 +0000",
       "minecraft:ocean": "2024-11-29 16:47:53 +0000",
       "minecraft:snowy_beach": "2024-11-30 05:11:55 +0000",
-      "minecraft:deep_lukewarm_ocean": "2024-11-29 17:56:19 +0000"
+      "minecraft:deep_lukewarm_ocean": "2024-11-29 17:56:19 +0000",
+      "minecraft:savanna": "2024-12-04 01:35:13 +0000"
     },
     "done": false
   },
@@ -189,6 +190,7 @@
       "porkchop": "2024-11-29 17:04:42 +0000",
       "cooked_mutton": "2024-11-29 16:53:04 +0000",
       "apple": "2024-11-29 17:25:01 +0000",
+      "cooked_cod": "2024-12-04 01:33:43 +0000",
       "bread": "2024-11-29 16:48:01 +0000",
       "cooked_salmon": "2024-12-04 00:54:44 +0000"
     },
@@ -329,7 +331,8 @@
       "minecraft:creeper": "2024-12-04 01:01:05 +0000",
       "minecraft:slime": "2024-11-30 04:57:46 +0000",
       "minecraft:witch": "2024-11-29 17:26:21 +0000",
-      "minecraft:zombie": "2024-11-29 17:41:22 +0000"
+      "minecraft:zombie": "2024-11-29 17:41:22 +0000",
+      "minecraft:zombie_villager": "2024-12-04 01:41:52 +0000"
     },
     "done": false
   },
@@ -490,9 +493,21 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-04 01:33:47 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_stymphalian_bird": {
     "criteria": {
       "killed_fire_dragon": "2024-12-04 00:56:26 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2024-12-04 01:39:34 +0000"
     },
     "done": true
   },
@@ -517,6 +532,12 @@
   "create:copper": {
     "criteria": {
       "0": "2024-12-04 00:56:51 +0000"
+    },
+    "done": true
+  },
+  "integrated_villages:mediterranean_village": {
+    "criteria": {
+      "in_mediterranean_village": "2024-12-04 01:36:12 +0000"
     },
     "done": true
   },
