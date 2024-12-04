@@ -414,45 +414,21 @@
     },
     "done": true
   },
-  "spelunkery:recipes/amethyst": {
+  "biomemakeover:biomemakeover/lightning_bug_bottle": {
     "criteria": {
-      "has_item": "2024-11-30 04:53:10 +0000"
+      "lightning_bug_bottle": "2024-11-30 04:29:34 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:light_as_a_frog": {
+    "criteria": {
+      "lily_pad": "2024-11-30 04:40:05 +0000"
     },
     "done": true
   },
   "idas:pillager_fortress": {
     "criteria": {
       "in_pillager_fortress": "2024-11-30 04:40:10 +0000"
-    },
-    "done": true
-  },
-  "lootr:50loot": {
-    "criteria": {
-      "loot_stat": "2024-11-30 05:23:02 +0000"
-    },
-    "done": true
-  },
-  "upgrade_aquatic:adventure/tooth_fairy": {
-    "criteria": {
-      "thrasher_tooth": "2024-11-30 05:26:53 +0000"
-    },
-    "done": true
-  },
-  "quark:get_all_corundum": {
-    "criteria": {
-      "red": "2024-11-30 04:53:30 +0000"
-    },
-    "done": false
-  },
-  "farmersdelight:main/get_fd_seed": {
-    "criteria": {
-      "tomato_seeds": "2024-11-30 05:26:43 +0000"
-    },
-    "done": true
-  },
-  "quark:get_bottled_cloud": {
-    "criteria": {
-      "get_bottled_cloud": "2024-11-30 04:53:17 +0000"
     },
     "done": true
   },
@@ -468,17 +444,23 @@
     },
     "done": true
   },
-  "spelunkery:recipes/diamond": {
+  "spelunkery:recipes/amethyst": {
     "criteria": {
-      "has_item": "2024-11-30 05:20:39 +0000"
+      "has_item": "2024-11-30 04:53:10 +0000"
     },
     "done": true
   },
-  "biomemakeover:biomemakeover/lightning_bug_bottle": {
+  "quark:get_bottled_cloud": {
     "criteria": {
-      "lightning_bug_bottle": "2024-11-30 04:29:34 +0000"
+      "get_bottled_cloud": "2024-11-30 04:53:17 +0000"
     },
     "done": true
+  },
+  "quark:get_all_corundum": {
+    "criteria": {
+      "red": "2024-11-30 04:53:30 +0000"
+    },
+    "done": false
   },
   "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
@@ -486,15 +468,33 @@
     },
     "done": true
   },
-  "regions_unexplored:light_as_a_frog": {
+  "spelunkery:recipes/diamond": {
     "criteria": {
-      "lily_pad": "2024-11-30 04:40:05 +0000"
+      "has_item": "2024-11-30 05:20:39 +0000"
     },
     "done": true
   },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2024-11-30 05:20:39 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2024-11-30 05:23:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2024-11-30 05:26:43 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:adventure/tooth_fairy": {
+    "criteria": {
+      "thrasher_tooth": "2024-11-30 05:26:53 +0000"
     },
     "done": true
   },

@@ -11794,3 +11794,124 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [04Dec2024 00:39:55.539] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5829ms or 116 ticks behind
 [04Dec2024 00:42:02.945] [Server thread/INFO] [FrozenLib/]: Loading config ItemConfig from wilderwild
 [04Dec2024 00:42:02.950] [Server thread/INFO] [FrozenLib/]: Saving config ItemConfig from wilderwild
+[04Dec2024 00:47:18.612] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:wilderwild/baobab_stonecutter removed now.
+[04Dec2024 00:47:18.613] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:biomemakeover/willow_stonecutter removed now.
+[04Dec2024 00:47:18.613] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:biomemakeover/swamp_cypress_stonecutter removed now.
+[04Dec2024 00:47:18.614] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:regions_unexplored/socotra_stonecutter removed now.
+[04Dec2024 00:47:18.615] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:netherexp/claret_stonecutter removed now.
+[04Dec2024 00:47:18.617] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:regions_unexplored/dead_stonecutter removed now.
+[04Dec2024 00:47:18.617] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:regions_unexplored/baobab_stonecutter removed now.
+[04Dec2024 00:47:18.618] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:regions_unexplored/blackwood_stonecutter removed now.
+[04Dec2024 00:47:18.618] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:mynethersdelight/powdery_stonecutter removed now.
+[04Dec2024 00:47:18.619] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:regions_unexplored/redwood_stonecutter removed now.
+[04Dec2024 00:47:18.620] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:biomemakeover/blighted_balsa_stonecutter removed now.
+[04Dec2024 00:47:18.621] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:regions_unexplored/magnolia_stonecutter removed now.
+[04Dec2024 00:47:18.622] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:regions_unexplored/cypress_stonecutter removed now.
+[04Dec2024 00:47:18.623] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:regions_unexplored/willow_stonecutter removed now.
+[04Dec2024 00:47:18.624] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:regions_unexplored/palm_stonecutter removed now.
+[04Dec2024 00:47:18.625] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:snifferplus/stone_pine_stonecutter removed now.
+[04Dec2024 00:47:18.626] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:wilderwild/cypress_stonecutter removed now.
+[04Dec2024 00:47:18.626] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:betterarcheology/rotten_stonecutter removed now.
+[04Dec2024 00:47:18.627] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:regions_unexplored/larch_stonecutter removed now.
+[04Dec2024 00:47:18.627] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:wilderwild/palm_stonecutter removed now.
+[04Dec2024 00:47:18.628] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:alexscaves/thornwood_stonecutter removed now.
+[04Dec2024 00:47:18.630] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:alexscaves/pewen_stonecutter removed now.
+[04Dec2024 00:47:18.631] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:regions_unexplored/mauve_stonecutter removed now.
+[04Dec2024 00:47:18.631] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:regions_unexplored/alpha_stonecutter removed now.
+[04Dec2024 00:47:18.632] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:biomemakeover/ancient_oak_stonecutter removed now.
+[04Dec2024 00:47:18.633] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:regions_unexplored/pine_stonecutter removed now.
+[04Dec2024 00:47:18.634] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:ars_nouveau/archwood_stonecutter removed now.
+[04Dec2024 00:47:18.635] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:regions_unexplored/brimwood_stonecutter removed now.
+[04Dec2024 00:47:18.635] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:regions_unexplored/kapok_stonecutter removed now.
+[04Dec2024 00:47:18.636] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:regions_unexplored/maple_stonecutter removed now.
+[04Dec2024 00:47:18.636] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:regions_unexplored/cobalt_stonecutter removed now.
+[04Dec2024 00:47:18.637] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:regions_unexplored/joshua_stonecutter removed now.
+[04Dec2024 00:47:18.638] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:upgrade_aquatic/river_stonecutter removed now.
+[04Dec2024 00:47:18.638] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:regions_unexplored/eucalyptus_stonecutter removed now.
+[04Dec2024 00:47:18.640] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:wilderwild/baobab_stonecutter removed now.
+[04Dec2024 00:47:18.640] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:biomemakeover/willow_stonecutter removed now.
+[04Dec2024 00:47:18.640] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:biomemakeover/swamp_cypress_stonecutter removed now.
+[04Dec2024 00:47:18.641] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:regions_unexplored/socotra_stonecutter removed now.
+[04Dec2024 00:47:18.642] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:netherexp/claret_stonecutter removed now.
+[04Dec2024 00:47:18.642] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:regions_unexplored/dead_stonecutter removed now.
+[04Dec2024 00:47:18.643] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:regions_unexplored/baobab_stonecutter removed now.
+[04Dec2024 00:47:18.643] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:regions_unexplored/blackwood_stonecutter removed now.
+[04Dec2024 00:47:18.643] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:mynethersdelight/powdery_stonecutter removed now.
+[04Dec2024 00:47:18.644] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:regions_unexplored/redwood_stonecutter removed now.
+[04Dec2024 00:47:18.645] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:biomemakeover/blighted_balsa_stonecutter removed now.
+[04Dec2024 00:47:18.646] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:regions_unexplored/magnolia_stonecutter removed now.
+[04Dec2024 00:47:18.646] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:regions_unexplored/cypress_stonecutter removed now.
+[04Dec2024 00:47:18.647] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:regions_unexplored/willow_stonecutter removed now.
+[04Dec2024 00:47:18.648] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:regions_unexplored/palm_stonecutter removed now.
+[04Dec2024 00:47:18.649] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:snifferplus/stone_pine_stonecutter removed now.
+[04Dec2024 00:47:18.650] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:wilderwild/cypress_stonecutter removed now.
+[04Dec2024 00:47:18.650] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:betterarcheology/rotten_stonecutter removed now.
+[04Dec2024 00:47:18.651] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:regions_unexplored/larch_stonecutter removed now.
+[04Dec2024 00:47:18.651] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:wilderwild/palm_stonecutter removed now.
+[04Dec2024 00:47:18.652] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:alexscaves/thornwood_stonecutter removed now.
+[04Dec2024 00:47:18.653] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:alexscaves/pewen_stonecutter removed now.
+[04Dec2024 00:47:18.654] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:regions_unexplored/mauve_stonecutter removed now.
+[04Dec2024 00:47:18.654] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:regions_unexplored/alpha_stonecutter removed now.
+[04Dec2024 00:47:18.656] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:biomemakeover/ancient_oak_stonecutter removed now.
+[04Dec2024 00:47:18.656] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:regions_unexplored/pine_stonecutter removed now.
+[04Dec2024 00:47:18.657] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:ars_nouveau/archwood_stonecutter removed now.
+[04Dec2024 00:47:18.657] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:regions_unexplored/brimwood_stonecutter removed now.
+[04Dec2024 00:47:18.658] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:regions_unexplored/kapok_stonecutter removed now.
+[04Dec2024 00:47:18.658] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:regions_unexplored/maple_stonecutter removed now.
+[04Dec2024 00:47:18.659] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:regions_unexplored/cobalt_stonecutter removed now.
+[04Dec2024 00:47:18.659] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:regions_unexplored/joshua_stonecutter removed now.
+[04Dec2024 00:47:18.660] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:upgrade_aquatic/river_stonecutter removed now.
+[04Dec2024 00:47:18.660] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:regions_unexplored/eucalyptus_stonecutter removed now.
+[04Dec2024 00:47:18.662] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: eepy[/127.37.204.37:52445] logged in with entity id 1775 at (-473.65589279309734, 67.0, 2862.071480050336)
+[04Dec2024 00:47:18.691] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[04Dec2024 00:47:18.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eepy joined the game
+[04Dec2024 00:47:19.050] [Server thread/INFO] [Jade/]: Syncing config to eepy (287d904c-edd9-3683-88ed-7f147e47b4bb)
+[04Dec2024 00:47:21.985] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of eepy (18)
+[04Dec2024 00:47:21.986] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to eepy
+[04Dec2024 00:47:21.986] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[04Dec2024 00:47:21.986] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[04Dec2024 00:47:21.987] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[04Dec2024 00:47:21.987] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[04Dec2024 00:47:21.987] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[04Dec2024 00:47:21.988] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[04Dec2024 00:47:21.988] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[04Dec2024 00:47:21.988] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[04Dec2024 00:47:21.988] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[04Dec2024 00:47:21.988] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[04Dec2024 00:47:21.988] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[04Dec2024 00:47:21.988] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[04Dec2024 00:47:21.989] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[04Dec2024 00:47:21.989] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[04Dec2024 00:47:21.989] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[04Dec2024 00:47:21.990] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[04Dec2024 00:47:21.990] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[04Dec2024 00:47:21.990] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/Temp07/servidor_minecraft/bclib-sync (allowDelete=true)
+[04Dec2024 00:47:48.779] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: eepy lost connection: Timed out
+[04Dec2024 00:47:48.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eepy left the game
+[04Dec2024 00:47:48.784] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client eepy
+[04Dec2024 00:48:38.205] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: eepy[/127.37.204.37:43513] logged in with entity id 2053 at (-473.65589279309734, 67.0, 2862.071480050336)
+[04Dec2024 00:48:38.230] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[04Dec2024 00:48:38.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eepy joined the game
+[04Dec2024 00:48:38.473] [Server thread/INFO] [Jade/]: Syncing config to eepy (287d904c-edd9-3683-88ed-7f147e47b4bb)
+[04Dec2024 00:48:40.036] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of eepy (18)
+[04Dec2024 00:48:40.037] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to eepy
+[04Dec2024 00:48:40.038] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[04Dec2024 00:48:40.038] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[04Dec2024 00:48:40.038] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[04Dec2024 00:48:40.039] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[04Dec2024 00:48:40.039] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[04Dec2024 00:48:40.039] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[04Dec2024 00:48:40.039] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[04Dec2024 00:48:40.039] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[04Dec2024 00:48:40.040] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[04Dec2024 00:48:40.040] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[04Dec2024 00:48:40.040] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[04Dec2024 00:48:40.040] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[04Dec2024 00:48:40.040] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[04Dec2024 00:48:40.040] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[04Dec2024 00:48:40.040] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[04Dec2024 00:48:40.042] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[04Dec2024 00:48:40.042] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[04Dec2024 00:48:40.043] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/Temp07/servidor_minecraft/bclib-sync (allowDelete=true)
+[04Dec2024 00:51:50.232] [Worker-Main-8/INFO] [Wilder Wild/]: Wilder Wild's Overworld Surface Rules have been added!
+[04Dec2024 00:52:49.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jonajgp: Teleported eepy to jonajgp]
