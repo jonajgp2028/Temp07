@@ -282,6 +282,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-11-30 04:43:46 +0000",
+      "minecraft:skeleton": "2024-12-04 01:15:11 +0000",
       "minecraft:spider": "2024-11-29 17:22:24 +0000",
       "minecraft:creeper": "2024-11-30 04:43:26 +0000",
       "minecraft:slime": "2024-11-29 17:21:37 +0000",
@@ -495,6 +496,18 @@
   "upgrade_aquatic:adventure/tooth_fairy": {
     "criteria": {
       "thrasher_tooth": "2024-11-30 05:26:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-12-04 01:20:31 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2024-12-04 01:20:20 +0000"
     },
     "done": true
   },

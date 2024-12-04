@@ -478,6 +478,18 @@
     },
     "done": true
   },
+  "spelunkery:spelunkery/magnetic_compass": {
+    "criteria": {
+      "item": "2024-12-04 01:19:50 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2024-12-04 01:18:29 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_stymphalian_bird": {
     "criteria": {
       "killed_fire_dragon": "2024-12-04 00:56:26 +0000"
@@ -487,6 +499,12 @@
   "spelunkery:recipes/copper_ingot": {
     "criteria": {
       "has_item": "2024-12-04 00:56:51 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:root": {
+    "criteria": {
+      "ars_nouveau:worn_notebook": "2024-12-04 01:21:11 +0000"
     },
     "done": true
   },
