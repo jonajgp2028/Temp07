@@ -508,6 +508,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2024-12-04 01:23:12 +0000"
+    },
+    "done": true
+  },
   "create:copper": {
     "criteria": {
       "0": "2024-12-04 00:56:51 +0000"
