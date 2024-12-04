@@ -472,6 +472,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-12-04 01:06:51 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_stymphalian_bird": {
     "criteria": {
       "killed_fire_dragon": "2024-12-04 00:56:26 +0000"
