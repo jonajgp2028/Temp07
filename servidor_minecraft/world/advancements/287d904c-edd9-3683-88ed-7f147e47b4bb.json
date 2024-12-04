@@ -521,9 +521,21 @@
     },
     "done": true
   },
+  "spelunkery:recipes/rough_diamond": {
+    "criteria": {
+      "has_item": "2024-12-04 01:52:10 +0000"
+    },
+    "done": true
+  },
   "spelunkery:spelunkery/magnetic_compass": {
     "criteria": {
       "item": "2024-12-04 01:22:54 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:spelunkery/rough_gem": {
+    "criteria": {
+      "item": "2024-12-04 01:51:11 +0000"
     },
     "done": true
   },
@@ -536,6 +548,12 @@
   "ars_nouveau:root": {
     "criteria": {
       "ars_nouveau:worn_notebook": "2024-12-04 01:23:13 +0000"
+    },
+    "done": true
+  },
+  "oreganized:story/lead_to_dust": {
+    "criteria": {
+      "in_lead_cloud": "2024-12-04 01:46:31 +0000"
     },
     "done": true
   },
@@ -560,6 +578,24 @@
   "spelunkery:spelunkery/conk_fungus": {
     "criteria": {
       "item": "2024-12-04 01:40:21 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/rough_lazurite": {
+    "criteria": {
+      "has_item": "2024-12-04 01:51:11 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:spelunkery/rough_diamond": {
+    "criteria": {
+      "item": "2024-12-04 01:52:10 +0000"
+    },
+    "done": true
+  },
+  "oreganized:story/like_the_romans": {
+    "criteria": {
+      "has_brain_damage": "2024-12-04 01:46:32 +0000"
     },
     "done": true
   },

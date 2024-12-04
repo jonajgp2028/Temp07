@@ -328,6 +328,7 @@
     "criteria": {
       "minecraft:pillager": "2024-11-30 04:40:38 +0000",
       "minecraft:skeleton": "2024-11-30 05:19:06 +0000",
+      "minecraft:spider": "2024-12-04 01:51:29 +0000",
       "minecraft:creeper": "2024-12-04 01:01:05 +0000",
       "minecraft:slime": "2024-11-30 04:57:46 +0000",
       "minecraft:witch": "2024-11-29 17:26:21 +0000",
@@ -535,9 +536,21 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2024-12-04 01:44:30 +0000"
+    },
+    "done": true
+  },
   "integrated_villages:mediterranean_village": {
     "criteria": {
       "in_mediterranean_village": "2024-12-04 01:36:12 +0000"
+    },
+    "done": true
+  },
+  "biomemakeover:biomemakeover/cladding_template": {
+    "criteria": {
+      "get_disc": "2024-12-04 01:45:52 +0000"
     },
     "done": true
   },
