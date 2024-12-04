@@ -331,6 +331,7 @@
       "minecraft:spider": "2024-12-04 01:51:29 +0000",
       "minecraft:creeper": "2024-12-04 01:01:05 +0000",
       "minecraft:slime": "2024-11-30 04:57:46 +0000",
+      "quark:forgotten": "2024-12-04 02:38:56 +0000",
       "minecraft:witch": "2024-11-29 17:26:21 +0000",
       "quark:wraith": "2024-12-04 02:00:38 +0000",
       "minecraft:silverfish": "2024-12-04 01:58:12 +0000",
@@ -589,6 +590,12 @@
   "spelunkery:recipes/rough_diamond_shard": {
     "criteria": {
       "has_item": "2024-12-04 02:02:03 +0000"
+    },
+    "done": true
+  },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2024-12-04 02:38:56 +0000"
     },
     "done": true
   },
