@@ -11915,3 +11915,17 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [04Dec2024 00:48:40.043] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/Temp07/servidor_minecraft/bclib-sync (allowDelete=true)
 [04Dec2024 00:51:50.232] [Worker-Main-8/INFO] [Wilder Wild/]: Wilder Wild's Overworld Surface Rules have been added!
 [04Dec2024 00:52:49.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jonajgp: Teleported eepy to jonajgp]
+[04Dec2024 00:56:26.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonajgp has made the advancement [Herc was on a Roll!]
+[04Dec2024 00:56:26.829] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Copper Nugget'/4855, l='ServerLevel[world]', x=-375.47, y=80.56, z=3316.02, removed=DISCARDED]
+[04Dec2024 00:56:26.829] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Copper Nugget'/4855, l='ServerLevel[world]', x=-375.47, y=80.56, z=3316.02, removed=DISCARDED]
+[04Dec2024 00:57:08.427] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Copper Nugget'/5096, l='ServerLevel[world]', x=-375.11, y=81.00, z=3310.03, removed=DISCARDED]
+[04Dec2024 00:57:08.428] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Copper Nugget'/5096, l='ServerLevel[world]', x=-375.11, y=81.00, z=3310.03, removed=DISCARDED]
+[04Dec2024 01:00:42.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eepy was blown up by Creeper
+[04Dec2024 01:00:42.319] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 0 in "curios" inventory handler
+[04Dec2024 01:00:51.352] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[04Dec2024 01:02:41.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <eepy> -850 66 3457
+[04Dec2024 01:02:46.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jonajgp: Teleported eepy to jonajgp]
+[04Dec2024 01:02:46.019] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Copper Nugget'/4855, l='ServerLevel[world]', x=-375.47, y=80.56, z=3316.02, removed=DISCARDED]
+[04Dec2024 01:02:46.021] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Copper Nugget'/5096, l='ServerLevel[world]', x=-375.11, y=81.00, z=3310.03, removed=DISCARDED]
+[04Dec2024 01:04:24.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [eepy: Teleported eepy to -849.500000, 66.000000, 3457.500000]
+[04Dec2024 01:04:30.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [eepy: Teleported jonajgp to eepy]

@@ -189,7 +189,8 @@
       "porkchop": "2024-11-29 17:04:42 +0000",
       "cooked_mutton": "2024-11-29 16:53:04 +0000",
       "apple": "2024-11-29 17:25:01 +0000",
-      "bread": "2024-11-29 16:48:01 +0000"
+      "bread": "2024-11-29 16:48:01 +0000",
+      "cooked_salmon": "2024-12-04 00:54:44 +0000"
     },
     "done": false
   },
@@ -325,6 +326,7 @@
     "criteria": {
       "minecraft:pillager": "2024-11-30 04:40:38 +0000",
       "minecraft:skeleton": "2024-11-30 05:19:06 +0000",
+      "minecraft:creeper": "2024-12-04 01:01:05 +0000",
       "minecraft:slime": "2024-11-30 04:57:46 +0000",
       "minecraft:witch": "2024-11-29 17:26:21 +0000",
       "minecraft:zombie": "2024-11-29 17:41:22 +0000"
@@ -467,6 +469,24 @@
   "upgrade_aquatic:adventure/tooth_fairy": {
     "criteria": {
       "thrasher_tooth": "2024-11-30 05:27:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_stymphalian_bird": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-04 00:56:26 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/copper_ingot": {
+    "criteria": {
+      "has_item": "2024-12-04 00:56:51 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2024-12-04 00:56:51 +0000"
     },
     "done": true
   },
